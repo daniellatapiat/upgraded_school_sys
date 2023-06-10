@@ -1,0 +1,57 @@
+[
+    {
+        "model": "api.User",
+        "fields": {
+            "type": "student",
+            "name": "Alice",
+            "last_name": "Dane",
+            "username": "a.dane",
+            "pass_hash": "$2b$12$prQxK2o9zVseZZnLl5je0e195F9XsEhQRUOn0x5cF72ax.qKDoEAm"
+        }
+    },
+
+    {
+        "model": "api.User",
+        "fields": {
+            "type": "student",
+            "name": "Eric",
+            "last_name": "Olsen",
+            "username": "e.olsen",
+            "pass_hash": "$2b$12$I/Vxc0F29//IfFRfEQfTpOl9xTIznLx2B3T3Zp2pMSHBrAqMgkuI."
+
+        }
+    },
+
+    {
+        "model": "api.User",
+        "fields": {
+            "type": "teacher",
+            "name": "James",
+            "last_name": "Dawson",
+            "username": "j.dawson",
+            "pass_hash": "$2b$12$jQizo/NKlouhuytdEAA9u.vh8P7QA.gvjX5a6GkAqRu0xpiTnC8Yy"
+        }
+    },
+
+    {
+        "model": "api.User",
+        "fields": {
+            "type": "coordinator",
+            "name": "Darren",
+            "last_name": "Martin",
+            "username": "d.martin",
+            "pass_hash": "$2b$12$SzJ9r6ZRCQtPqISFbbl3I.Q5unKmmcf57QLjNgMBUQycF3.kmmoja"
+        }
+    },
+
+    {
+        "model": "api.User",
+        "fields": {
+            "type": "teacher",
+            "name": "Robert",
+            "last_name": "Johnson",
+            "username": "r.johnson",
+            "pass_hash": "$2b$12$QbmARPjkAd.X5.CISWJ0U.sVpmJPMoZrejGLaljAMF.ofRLFEyh1."
+        }
+    }
+]
